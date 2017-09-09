@@ -8,7 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /*
-    A Java Enumeration implementation to return permutations of characters in any string (at least one-character long), without any duplication caused by repeated characters.
+    A program to merge searched nodes branches belonging to the same root nodes, in a search efficient way.
     Copyright (C) 2017 Lewis Tat Fong Choo Man
 
     This program is free software: you can redistribute it and/or modify
